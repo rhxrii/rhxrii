@@ -1,3 +1,5 @@
+![My card name](https://cardivo.vercel.app/api?name=Ari%20Farhan&description=Make%20Awesome%20With%20Code%20%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/45889833?s=400&u=cbc3f3aff594fd1a9e2987be4cd7d8c446859363&v=4&backgroundColor=%FFFFFFFFFF&instagram=arkun666&linkedin=arii-farhan-345a74182&github=rhxrii&twitter=riihaxor_&pattern=topography&colorPattern=%2347597E&fontColor=%black&iconColor=%black&opacity=0.3)
+
 <h3 align="center">I am a boy who likes web developer technology and internet networks</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rhxrii&label=Profile%20views&color=0e75b6&style=flat" alt="rhxrii" /> </p>
